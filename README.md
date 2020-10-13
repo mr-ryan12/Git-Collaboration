@@ -36,17 +36,13 @@ Using two tildes provides a strikethrough or so I was told by ~~a totally real d
 [Google](https://www.google.com "Google's Homepage")  
 
 **Reference Style Link:**  
-[Reference Style Link][Arbitrary case-insensitive reference text]
-.  
-.Later down the page  
-.  
-[Arbitrary case-insensitive reference text]: https://www.mozilla.org
+[Reference Style Link][Arbitrary case-insensitive reference text]  
+
 
 **Reference Style Link Using Numbers**  
 [Reference Style Link Using Numbers][1]  
-.  
-.Later Down the Page  
-.  
+
+[Arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 
 # Images
