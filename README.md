@@ -3,10 +3,10 @@
 ### Here is a Third Header
 #### You get the idea
 
-You can use *asterisks* or _underscores_ for emphasis (*italics*)
-You can use **double asterisks** or __double underscores__ for strong emphasis (**bold**)
-You can combine emphasis using **asterisks and _underscores_**
-Using two tildes provides a strikethrough or so I was told by ~~a totally real doctor~~
+You can use *asterisks* or _underscores_ for emphasis (*italics*).  
+You can use **double asterisks** or __double underscores__ for strong emphasis (**bold**).  
+You can combine emphasis using **asterisks and _underscores_**.  
+Using two tildes provides a strikethrough or so I was told by ~~a totally real doctor~~.  
 
 # Lists
 
@@ -57,4 +57,4 @@ Using two tildes provides a strikethrough or so I was told by ~~a totally real d
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"`  tu
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"`
