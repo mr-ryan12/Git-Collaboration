@@ -39,7 +39,7 @@ Using two tildes provides a strikethrough or so I was told by ~~a totally real d
 [Reference Style Link][Arbitrary case-insensitive reference text]  
 
 
-**Reference Style Link Using Numbers**  
+**Reference Style Link Using Numbers:**  
 [Reference Style Link Using Numbers][1]  
 
 [Arbitrary case-insensitive reference text]: https://www.mozilla.org
@@ -47,10 +47,10 @@ Using two tildes provides a strikethrough or so I was told by ~~a totally real d
 
 # Images
 
-`Inline-style:
+**Inline-style:**  
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  
 
-Reference-style:
+**Reference-style:**
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"`
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
