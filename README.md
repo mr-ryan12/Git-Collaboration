@@ -32,21 +32,21 @@ Using two tildes provides a strikethrough or so I was told by ~~a totally real d
 **Inline Style Link:**  
 [Google](https://www.google.com)  
 
-**Inline-style With Title:**
+**Inline-style With Title:**  
 [Google](https://www.google.com "Google's Homepage")  
 
-**Reference Style Link:**
+**Reference Style Link:**  
 [Reference Style Link][Arbitrary case-insensitive reference text]
-.
-.Later down the page
-.
+.  
+.Later down the page  
+.  
 [Arbitrary case-insensitive reference text]: https://www.mozilla.org
 
-**Reference Style Link Using Numbers**
-[Reference Style Link Using Numbers][1]
-.
-.Later Down the Page
-.
+**Reference Style Link Using Numbers**  
+[Reference Style Link Using Numbers][1]  
+.  
+.Later Down the Page  
+.  
 [1]: http://slashdot.org
 
 # Images
